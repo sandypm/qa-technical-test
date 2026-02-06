@@ -86,3 +86,7 @@ module.exports = {
     runTestsQueue,
     deduplicateEvents
 };
+
+// Teste rápido
+console.log(generateEmail("teste"));
+
