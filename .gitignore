@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build
+dist/
+build/
+
+# Ambiente
+.env
+.env.test
+.env.production
+
+# Cache
+.cache/
+.tmp/
+
+# Ferramentas
+coverage/
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Sub-repositórios
+qa-technical-test/
